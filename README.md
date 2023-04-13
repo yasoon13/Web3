@@ -23,5 +23,5 @@ This repository is created to log my web3 journey. It includes resources I used,
    * Get Web 2.0 projects
    * Master Web 3.0
    * Get Web 3.0 projects
-2. Begin with learning Javascript because there are more videos on Javascript than Typescript. The goal is to get on-board with Typescript because we wnat to do large scale projects.
+2. Begin with learning Javascript because there are more videos on Javascript than Typescript. The goal is to get on-board with Typescript because we want to do large scale projects.
 3. While learning Javascript, sign-up on Github and understand how Git and Github works because you want to not only write code and make projects, but also share them publically to show your skills and make a portfolio for work or collaboration opportunities.
