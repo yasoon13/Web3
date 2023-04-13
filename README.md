@@ -1,4 +1,5 @@
 # Web3
+## Introduction
 This repository is created to log my web3 journey. It includes resources I used, videos I watched, tools and software I learned and other things that I cannot think right now.
 <br />
 <br /> In this journey, what I figured out is that I need to learn the following:
@@ -11,3 +12,9 @@ This repository is created to log my web3 journey. It includes resources I used,
 7. Github
 <br />
 <br /> I will create separate .md files for the above. Why I'm doing this on Github? Because I just love it here! Also there is a chance that more files will also be added here.
+<br />
+## Roadmap
+<br />
+1. Begin with learning Javascript because there are more videos on Javascript than Typescript.
+2. While learning Javascript sign-up on Github and understand how Git and Github works.
+3. 
