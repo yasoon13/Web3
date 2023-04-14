@@ -10,6 +10,7 @@ This repository is created to log my web3 journey. It includes resources I used,
 5. Python
 6. Prompt engineering
 7. Github
+8. Solidity
 <br />
 <br /> I will create separate .md files for the above. Why I'm doing this on Github? Because I just love it here! Also there is a chance that more files will also be added here.
 <br />
